@@ -2,12 +2,13 @@
 
 If you like this project, please cite our paper (full entry available after April 7, 2024):
 
+```
 @InProceedings{evoboard,
 author = {Batista, Jo{\~{a}}o E. and Garrow, Frase and Spairani, Carlo H. and Martins, Tiago,
 title = {{Evoboard: Geoboard-inspired Evolved Typefonts}},
 year = 2024,
 }
-
+```
 
 
 How fit is your glyph? Towards the automatic evaluation of evolved letter designs
