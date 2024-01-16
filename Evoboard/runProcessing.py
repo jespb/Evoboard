@@ -24,7 +24,7 @@ for char in "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ":
 		else:
 			representation = "variable_length"
 			subprocess.run([
-		 		"/home/jebatista/Desktop/BACKED/FCUL/2023/EvoMUSArt_2024/processing-4.3/processing",
+		 		f"{processing_dir}/processing-4.3/processing",
 				f"{this_script_dir}/variable_length/evoboard.pde"
 				])
 
